@@ -1,0 +1,25 @@
+<div style = "height: 40px;"></div>
+<footer class = "footer">
+    <div class = "media-div">
+        <a href="https://www.facebook.com/YosemiteNPS/">
+            <i class="fa fa-facebook-square media-icon" aria-hidden="true"></i>
+        </a>
+        <a href = "https://twitter.com/YosemiteNPS?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">
+            <i class="fa fa-twitter-square media-icon" aria-hidden="true"></i>
+        </a>
+        <a href = "https://www.instagram.com/yosemitenps/?hl=en">
+            <i class="fa fa-instagram media-icon" aria-hidden="true"></i>
+        </a>
+        <a href = "https://www.linkedin.com/company/yosemite-conservancy">
+            <i class="fa fa-linkedin-square media-icon" aria-hidden="true"></i>
+        </a>
+        <a href = "https://www.youtube.com/watch?v=9fJEFi3ccwI">
+            <i class="fa fa-youtube-square media-icon" aria-hidden="true"></i>
+        </a>
+    </div>
+    <div class = "copyright">
+        <p>&copy; Thale</p>
+    </div>
+</footer>
+</body>
+</html>

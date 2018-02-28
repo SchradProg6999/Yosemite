@@ -1,0 +1,50 @@
+<div class = "media-header">
+    <a href="https://www.facebook.com/YosemiteNPS/">
+    <i class="fa fa-facebook-square media-icon" aria-hidden="true"></i>
+    </a>
+    <a href = "https://twitter.com/YosemiteNPS?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">
+    <i class="fa fa-twitter-square media-icon" aria-hidden="true"></i>
+    </a>
+    <a href = "https://www.instagram.com/yosemitenps/?hl=en">
+    <i class="fa fa-instagram media-icon" aria-hidden="true"></i>
+    </a>
+    <a href = "https://www.linkedin.com/company/yosemite-conservancy">
+        <i class="fa fa-linkedin-square media-icon" aria-hidden="true"></i>
+    </a>
+    <a href = "https://www.youtube.com/watch?v=9fJEFi3ccwI">
+    <i class="fa fa-youtube-square media-icon" aria-hidden="true"></i>
+    </a>
+</div>
+<div class = "clearfix global-nav-wrapper">
+    <div class = "global-nav">
+        <div class = "logo">
+            <a href = "index.php"><img id = "logo-image" src = "images/logo.png" alt = "logo"></a>
+            <a href = "index.php" class = "nav-link">Yosemite</a>
+        </div>
+        <div class = "global-links">
+            <a href="lodging.php" class="nav-link">Lodging</a>
+            <a href="eateries.php" class="nav-link">Eateries</a>
+            <a href="sights.php" class="nav-link">Sights</a>
+            <a href="history.php" class="nav-link">History</a>
+            <a href="map.php" class="nav-link">Map</a>
+            <a href="my-trip.php" class="nav-link" id="last-button">My Trip</a>
+        </div>
+    </div>
+    <label class = "ham-meat" for = "ham-checkbox">
+        <span class = "ham-sandwich">
+            <span class = "ham-bone"></span>
+            <span class = "ham-bone"></span>
+            <span class = "ham-bone"></span>
+        </span>
+        <span id = "ham-menu-text">Menu</span>
+    </label>
+</div>
+<input type = "checkbox" id = "ham-checkbox">
+<div class = "mobile-nav btn-group-md">
+    <a href="lodging.php" class="nav-btn">Lodging</a>
+    <a href="eateries.php" class="nav-btn">Eateries</a>
+    <a href="sights.php" class="nav-btn">Sights</a>
+    <a href="history.php" class="nav-btn">History</a>
+    <a href="map.php" class="nav-btn">Map</a>
+    <a href="my-trip.php" class="nav-btn" id = "last-btn">My Trip</a>
+</div>
